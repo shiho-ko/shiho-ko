@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left">
+  <a href="https://github.com/shiho-ko/shiho-ko/">
+    <img src="https://komarev.com/ghpvc/?username=shiho-ko" alt="shiho-ko" />
+  </a>
+  <a href="http://twitter.com/shiho-ko">
+    <img height="20" src="https://img.shields.io/twitter/follow/shiho_ohoshidev?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/shiho-ko">
+    <img height="20" src="https://img.shields.io/github/followers/shiho-ko?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/s-yokosan">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/s-yokosan/posts.svg" />
+  </a>
+  <//qiita.com/s-yokosan">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/s-yokosan/contributions.svg" />
+  </a>
+</p>
